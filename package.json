@@ -1,0 +1,23 @@
+{
+  "name": "ts-challanges",
+  "version": "1.0.0",
+  "description": "ts-challanges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarhsonNing/ts-challanges.git"
+  },
+  "keywords": [],
+  "author": "jarhson <jarhson@163.com> (https://jarhson.cn/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarhsonNing/ts-challanges/issues"
+  },
+  "homepage": "https://github.com/JarhsonNing/ts-challanges#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
